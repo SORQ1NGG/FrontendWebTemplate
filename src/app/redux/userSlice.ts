@@ -19,7 +19,7 @@ export const userSlice = createSlice({
     dealerId: null,
     userData: {
       id: 228,
-      name: 'Valentin Vorobyev',
+      name: 'Peter Parker',
       roles: [{ id: 0, name: 'firstUser' }], // TODO Пример - userData должно быть null, когда будет API
     },
     email: null,
