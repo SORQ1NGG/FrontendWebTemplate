@@ -1,6 +1,6 @@
-# FrontendWebTemplate
+# Frontend Web Template
 
-Проект Шаблон Frontend by Valentin Vorobyev
+Проект Шаблон Frontend
 
 yarn => yarn start
 
